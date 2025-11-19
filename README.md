@@ -1,4 +1,5 @@
-# (UPDATE IN README.md) Project Title
+# Healthcare Group 2A
+# Detecting GI Diseases
 
 (UPDATE IN README.md)
 Briefly describe the purpose/result(s) of your project, the skills you applied, and the AI4ALL Ignite program.
