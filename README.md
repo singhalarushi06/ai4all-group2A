@@ -54,6 +54,7 @@ List the technologies, libraries, and frameworks used in your project.
 
 
 ## Authors <!--- do not change this line -->
+
 Final Group Members:
 - Arushi Singhal
    - Email: arushi.singhal@rutgers.edu
@@ -62,5 +63,6 @@ Final Group Members:
 - Damilola Babajide
    - LinkedIn: 
    - GitHub:
+
 Mentor:
 - Matthew Slomka
