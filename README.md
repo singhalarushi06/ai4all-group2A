@@ -1,20 +1,13 @@
-# Healthcare Group 2A
+# Healthcare Group 2A - AI4ALL Fall 2025
 # Detecting GI Diseases
 
-(UPDATE IN README.md)
-Briefly describe the purpose/result(s) of your project, the skills you applied, and the AI4ALL Ignite program.
+This AI model aims to detect the presence of an autoimmune disease in the digestive tract sooner, leading to the identification of the potential GI disease to allow patients to receive earlier treatment. We explored the idea of biases when looking at sample patient data, learned features in Python to better analyze the data, and much more through the AI4ALL accelerator experience.
 
-*EXAMPLE:*
-*Uncovered and meticulously analyzed three distinct biases present in ChatGPT, employing advanced Python techniques and data analysis methodologies, all within AI4ALL's cutting-edge AI4ALL Ignite accelerator.*
 
 
 ## Problem Statement <!--- do not change this line -->
+Choosing to do a project in the healthcare track, we were interested in working on some project which could potentially have an impact. Healthcare is such a broad category, but one thing we realized as a trend was the amount of time it takes for people to receive the proper medical attention. We did some research and noticed that autoimmune diseases were one of the issues which took the longest to identify prior to any targeted care. Looking into this, we found that there are over 100 autoimmune diseases. To make this project more feasible, we narrowed our topic down to just the digestive/gastrointestinal tract (covers aroujnd 8-9 autoimmune diseases). With our model, we wanted to identify any patterns to detect the possibility of a patient having an autoimmune disease sooner.
 
-(UPDATE IN README.md)
-Describe the motivation for this project, why it is relevant, and what its impacts are.
-
-*EXAMPLE:*
-*Given the substantial daily output of responses, the identification and mitigation of ChatGPT's biases become critical, safeguarding both the multitude of users and the far-reaching consequences they may influence.*
 
 ## Key Results <!--- do not change this line -->
 
@@ -39,6 +32,9 @@ Enumerate the main results of this project in a list and describe them.
 
 
 ## Data Sources <!--- do not change this line -->
+We used 2 datasets from Kaggle, listed below:
+   - [Gastrointestinal Disease Dataset](https://www.kaggle.com/datasets/amanik000/gastrointestinal-disease-dataset)
+   - [All Autoimmune Disorders](https://www.kaggle.com/datasets/abdullahragheb/all-autoimmune-disorder-10k)
 
 (UPDATE IN README.md)
 Include any relevant data sources that were used in your project.
@@ -58,11 +54,13 @@ List the technologies, libraries, and frameworks used in your project.
 
 
 ## Authors <!--- do not change this line -->
-
-(UPDATE IN README.md)
-List the names and contact information (e.g., email, GitHub profiles) of the authors or contributors.
-
-*EXAMPLE:*
-*This project was completed in collaboration with:*
-- *John Doe ([john.doe@example.com](mailto:john.doe@example.com))*
-- *Jane Smith ([jane.smith@example.com](mailto:jane.smith@example.com))*
+Final Group Members:
+- Arushi Singhal
+   - Email: arushi.singhal@rutgers.edu
+   - LinkedIn: https://www.linkedin.com/in/arushi-singhal1/
+   - GitHub: singhalarushi06
+- Damilola Babajide
+   - LinkedIn: 
+   - GitHub:
+Mentor:
+- Matthew Slomka
